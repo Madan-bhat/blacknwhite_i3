@@ -21,7 +21,6 @@ i3-gaps \
 dmenu \
 picom-git \ 
 gtk-3.0 \ 
-tty-clock \
 alacritty \ 
 powerline \
 nautilus \
@@ -42,7 +41,7 @@ yay -S  ttf-inconsolata
  terminus-font \
  playerctl \
  nerd-fonts-terminus \
-
+ pywal
 
 
 echo -n "
